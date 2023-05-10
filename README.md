@@ -12,7 +12,7 @@ This is a documentation of a Django REST API for a social media platform made fo
 4. Run migrations using `python manage.py migrate`.
 5. Start the server using `python manage.py runserver`.
 
-## Setup without using docker
+## Setup using docker
 
 1. Clone the repository.
 2. Go to the project root
