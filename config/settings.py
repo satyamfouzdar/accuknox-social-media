@@ -29,6 +29,7 @@ INSTALLED_APPS = [
     'rest_framework',
     # Local Apps
     'accounts.apps.AccountsConfig',
+    'friends.apps.FriendsConfig',
 ]
 
 MIDDLEWARE = [
