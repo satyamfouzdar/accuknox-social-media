@@ -159,7 +159,7 @@ This is a documentation of a Django REST API for a social media platform made fo
 
 #### List friends
 
-- URL: `/api/friends/`
+- URL: `/api/v1/friends/list-friends/`
 - Method: `GET`
 - Description: Lists all friends.
 - Request headers:
