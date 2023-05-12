@@ -1,5 +1,3 @@
-Sure, here's the updated documentation:
-
 ## Introduction
 
 This is a documentation of a Django REST API for a social media platform made for AccuKnox Assessment. This API allows users to create an account, log-in, send, accept and reject friend requests, view their friends and pending friend requests.
