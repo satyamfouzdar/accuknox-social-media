@@ -109,7 +109,7 @@ This is a documentation of a Django REST API for a social media platform made fo
 
 #### Reject friend request
 
-- URL: `/api/reject-friend-request/`
+- URL: `/api/v1/reject-friend-request/`
 - Method: `POST`
 - Description: Rejects a friend request.
 - Request headers:
@@ -131,7 +131,7 @@ This is a documentation of a Django REST API for a social media platform made fo
 
 #### Pending friend requests
 
-- URL: `/api/pending-friend-requests/`
+- URL: `/api/v1/pending-friend-requests/`
 - Method: `GET`
 - Description: Lists all pending friend requests.
 - Request headers:
